@@ -13,7 +13,7 @@
 "Access to cloud service information is not allowed" = "Доступ к информации облачного сервиса запрещен";
 "Add a job" = "Добавить работу";
 "Age Range" = "Возрастной диапазон";
-"An error occurred while deleting your account. Please try again later.\nDetails: %@" = "Произошла ошибка при удалении вашего аккаунтаt. Пожалуйста, попробуйте еще раз позже.\nДетали: %@";
+"An error occurred while deleting your account. Please try again later.\nDetails: %@" = "Произошла ошибка при удалении вашего аккаунта. Пожалуйста, попробуйте еще раз позже.\nДетали: %@";
 "An error occurred while logging you in. Please try again later" = "Произошла ошибка при попытке входа. Пожалуйста, попробуйте еще раз позже.";
 "An error occurred while logging you out. Please try again later.\nDetails: %@" = "Произошла ошибка при попытке выхода. Пожалуйста, попробуйте еще раз позже.\nДетали: %@";
 "An error occurred while uploading your recording.\nDetails: %@" = "Произошла ошибка при загрузке вашей записи.\nДетали: %@";
@@ -54,10 +54,10 @@
 "E-Mail address" = "Адрес электронной почты";
 "Edit Profile" = "Изменить профиль";
 "Enter your password" = "Введите ваш паролль";
-"Error" = "Ошибкаr";
+"Error" = "Ошибка";
 "Failed restoring your Premium Access. Please try again later." = "Не удалось восстановить ваш Премиум доступ. Пожалуйста, попробуйте еще раз позже.";
 "Forgot password?" = "Забыли паспорт?";
-"Gender" = "Полr";
+"Gender" = "Пол";
 "Get a Premium Access" = "Получить Премиум доступ";
 "Go Ghost" = "Стать призраком";
 "Go Ghost!" = "Стать призраком!";
@@ -116,7 +116,7 @@
 "Only Women" = "Только женщины";
 "Orange" = "Оранжевый";
 "Other" = "Другое";
-"Out of likes! Go premium or wait %@" = "Закончились лайки! Стать Премиумом или подожди %@";
+"Out of likes! Go premium or wait %@" = "Закончились лайки! Станьте Премиумом или подождите %@";
 "Password" = "Пароль";
 "Password requirements: Minimum 8 characters and at least 1 number" = "Требования к паролю: Минимум 8 символов и, по крайней мере, хотя 1 цифра";
 "Please confirm by entering your password" = "Пожалуйста, подтвердите, введя свой пароль";
@@ -227,9 +227,9 @@
 "You’ve entered the wrong password. Try again" = "Вы ввели неверный пароль. Попробуйте снова";
 "monthly" = "ежемесячно";
 "Loading..." = "Загрузка...";
-"Not enough chat requests" = "Not enough chat requests";
-"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
-"Chat request" = "Chat request";
-"each" = "each";
-"Do you really want to log out?" = "Do you really want to log out?";
-"Do you really want to delete your account?" = "Do you really want to delete your account?";
+"Not enough chat requests" = "Недостаточно запросов чата";
+"Start kicking off chat requests again now!" = "Начните делать запросы чата прямо сейчас!";
+"Chat request" = "Запрос чата";
+"each" = "каждый";
+"Do you really want to log out?" = "Вы действительно хотите выйти?";
+"Do you really want to delete your account?" = "Вы дейтвительно хотите удалить ваш аккаунт?";
